@@ -26,12 +26,6 @@
 - Docker, Docker Compose  
 - Keycloak (Auth)
 
-### 🎨 Frontend
-- React, Vite  
-- React Native (Expo)  
-- Tailwind CSS  
-- Shadcn/UI
-
 ### 🛠 QA Tools
 - Postman, JMeter  
 - Playwright / Selenium  
