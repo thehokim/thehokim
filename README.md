@@ -39,18 +39,4 @@
 - 💼 LinkedIn: *coming soon*  
 - 🌍 Telegram: **@thehokim**
 
----
 
-## 🏗 Current Projects
-- ✔ Universal data integration platform for government organizations  
-- ✔ IELTS learning platform (FastAPI + Keycloak + React)
-- ✔ Mobile app for cadastral inspectors (React Native + Expo)  
-- ✔ GPS + ATTO data analytics platform  
-- ✔ Beauty salons booking platform (1Fit-style)
-
----
-
-## ✨ Fun Facts
-- 🧩 I love solving complex system design problems  
-- 📸 I enjoy working with satellite imagery  
-- 💪 Currently gaining weight & training at the gym  
