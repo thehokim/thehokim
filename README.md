@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hokimxo'ja 👋</h1>
 
 <p align="center">
-  <b>QA Lead | Full-Stack Developer | GIS & Cadastral Systems Specialist</b><br/>
+  <b>QA Lead | Backend Developer | GIS & Cadastral Systems Specialist</b><br/>
   Passionate about building reliable systems, improving product quality, and developing high-impact web platforms.
 </p>
 
