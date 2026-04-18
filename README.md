@@ -1,42 +1,39 @@
 <h1 align="center">Hi, I'm Hokimxo'ja 👋</h1>
+<p align="center"><b>QA Lead | Automation & Testing Specialist</b></p>
 
 <p align="center">
-  <b>QA Lead | Backend Developer | GIS & Cadastral Systems Specialist</b><br/>
-  Passionate about building reliable systems, improving product quality, and developing high-impact web platforms.
+Passionate about building robust testing frameworks, improving product quality, and ensuring system reliability for high-impact platforms.
 </p>
 
----
+🚀 About Me
+🔍 QA Lead at KOSMIK Monitoring va Geoaxborot Texnologiyalari Markazi
 
-## 🚀 About Me
-- 🔍 QA Lead at **KOSMIK Monitoring va Geoaxborot Texnologiyalari Markazi**  
-- 🌍 Building platforms involving **GIS**, **satellite imagery**, **GPS + ATTO data**, and **cadastral automation**
-- 🧪 Experience with manual & automated testing  
-- 🛠 Full-stack development with **React**, **Node.js**, **FastAPI**, **Go**, **PostgreSQL**, **Redis**, **Docker**, **Kubernetes**
-- 📱 Building mobile apps with **React Native + Expo**
-- 🎯 Focused on clean architecture, scalability, and product reliability
+🧪 Experienced in designing and executing comprehensive manual & automated testing strategies
 
----
+🌍 Specializing in testing complex systems involving GIS, satellite imagery, and cadastral automation
 
-## 🧰 Tech Stack
+🎯 Focused on API validation, data integrity, and end-to-end product reliability
 
-### 🖥 Backend
-- **Node.js**, **FastAPI**, **Go**
-- PostgreSQL, PostGIS  
-- Redis, RabbitMQ  
-- Docker, Docker Compose  
-- Keycloak (Auth)
+🧰 Tech Stack
+🛠 QA & Testing Tools
+Automation & UI: Playwright, Selenium
 
-### 🛠 QA Tools
-- Postman, JMeter  
-- Playwright / Selenium  
-- Jira, Confluence  
-- TestRail  
-- SQL for data validation
+API & Performance: Postman, JMeter
 
+Test Management: Jira, Confluence, TestRail
 
-## 🌐 Connect With Me
-- 📧 Email: **hokimxojadev@gmail.com**  
-- 💼 LinkedIn: *coming soon*  
-- 🌍 Telegram: **@thehokim**
+Data Validation: Advanced SQL for database testing
 
+⚙️ Environments & Infrastructure
+(Familiar with testing within these ecosystems)
 
+Databases: PostgreSQL, PostGIS, Redis
+
+Architecture: Docker, Kubernetes, Microservices (Node.js, Go, FastAPI)
+
+🌐 Connect With Me
+🌍 Telegram: @thehokim
+
+📧 Email: hokimxojadev@gmail.com
+
+💼 LinkedIn: coming soon
